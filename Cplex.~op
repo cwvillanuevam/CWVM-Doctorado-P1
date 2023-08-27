@@ -1,0 +1,2 @@
+Option optCA = 0.05;
+EVAOPT.optCR = 0.05;
