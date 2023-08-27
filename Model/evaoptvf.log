@@ -1,0 +1,16 @@
+
+--- Job evaoptvf.gms Start 07/09/19 16:05:43 WEX-WEI 23.9.5 x86_64/MS Windows     
+GAMS Rev 239  Copyright (C) 1987-2012 GAMS Development. All rights reserved
+Licensee: Gary Goldstein                                 G010614:2121CA-WIN
+          Decision Ware, Inc.                                        DC2807
+--- Starting compilation
+--- evaoptvf.gms(17) 2 Mb
+--- GDXin=C:\Users\USER\Documents\Wyller\Postgrado\Doctorado en energetica\tercer ciclo\gestion ambiental\c5\paper base de datos\in.gdx
+--- evaoptvf.gms(52) 3 Mb
+--- GDXin=C:\Users\USER\Documents\Wyller\Postgrado\Doctorado en energetica\tercer ciclo\gestion ambiental\c5\paper base de datos\in.gdx
+--- evaoptvf.gms(160) 56 Mb
+--- Starting execution: elapsed 0:00:00.484
+--- evaoptvf.gms(156) 779 Mb
+--- Generating MIP model EVAOPT
+Sending CtrlBreakp signal
+Exit code = -1073741510
